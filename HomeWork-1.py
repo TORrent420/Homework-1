@@ -1,4 +1,4 @@
-'''number = input()
+number = input()
 for digit in number:
     print(digit)
 
@@ -8,7 +8,7 @@ temp = a
 a = b
 b = temp
 print('Первое чилос теперь: ',a,'\nВторое число теперь:', b)
-'''
+
 age = int(input('Введите ваш возраст:'))
 if age >= 18:
     print('Доступ разрешен')
